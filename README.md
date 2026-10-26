@@ -1,6 +1,6 @@
 # Hi There 🙋‍♂️
 
-My name is Koen van der Marel and I am a Software Engineering currently working for CGI in The Netherlands.
+My name is Koen van der Marel and I am a Software Engineering currently working for Bconnect Live Chat in The Netherlands.
 <br/><br/>
 I am currently <b>not looking</b> for a job.
 
